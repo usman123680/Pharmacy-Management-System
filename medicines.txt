@@ -1,2 +1,0 @@
-paracetamol,200,2.0
-flagyl,200,3.0
